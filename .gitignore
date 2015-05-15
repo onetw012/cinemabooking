@@ -25,5 +25,9 @@ build/Release
 node_modules
 public/libs
 
+
 # Users Environment Variables
 .lock-wscript
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+>>>>>>> a398c704ea28443d4dd24840a440b9ba7fc91138
